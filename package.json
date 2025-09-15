@@ -1,0 +1,24 @@
+{
+  "name": "stronamichalwww",
+  "version": "1.0.0",
+  "description": "piewrsza strona michala",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Michał Bereta",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michal-bereta/stronaMichala.git"
+  },
+  "keywords": [
+    "michal",
+    "bereta",
+    "cv"
+  ],
+  "bugs": {
+    "url": "https://github.com/michal-bereta/stronaMichala/issues"
+  },
+  "homepage": "https://github.com/michal-bereta/stronaMichala#readme"
+}
